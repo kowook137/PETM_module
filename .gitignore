@@ -1,0 +1,16 @@
+*.pt
+*.pth
+*.pkl
+*.gz
+*.idx*
+*.npz
+*.csv
+
+data/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.vscode/
+*.log
